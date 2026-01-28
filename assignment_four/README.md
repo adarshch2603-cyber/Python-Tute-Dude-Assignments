@@ -1,4 +1,4 @@
-# DivyanshGoenka_Tutedude_Python_Assignments_4
+# Adarsh_hiremath_Tutedude_Python_Assignments_4
 
 This repository contains the Python Assignment no. 4 completed by Divyansh Goenka for the Tutedude Python course.
 
@@ -24,7 +24,7 @@ The repository is organized as follows:
    ```
 2. **Navigate to the Directory:**
    ```bash
-   cd DivyanshGoenka_Tutedude_Python_Assignment_2/assignment_four
+   cd Adarsh_hiremath_Tutedude_Python_Assignment_2/assignment_four
    ```
 4. **Run the Python Files:**
    ```bash
@@ -35,7 +35,7 @@ The repository is organized as follows:
 
 ## Author
 
-* **Divyansh Goenka**
+* **Adarsh hiremath**
 
 ## Course
 
@@ -43,5 +43,5 @@ The repository is organized as follows:
 
 ## Note
 
-This repository is intended for educational purposes and to demonstrate the learning progress of Divyansh Goenka in the
+This repository is intended for educational purposes and to demonstrate the learning progress of Adarsh_hiremath in the
 Tutedude Python course.
