@@ -1,4 +1,4 @@
-# DivyanshGoenka_Tutedude_Python_Assignments_7
+# AdarshHiremath_Tutedude_Python_Assignments_7
 
 This repository contains the Python Assignment no. 7 completed by Divyansh Goenka for the Tutedude Python course.
 
@@ -23,7 +23,8 @@ The repository is organized as follows:
    ```
 2. **Navigate to the Directory:**
    ```bash
-   cd DivyanshGoenka_Tutedude_Python_Assignments/assignment_seven
+   cd Adarsh hiremath
+   _Tutedude_Python_Assignments/assignment_seven
    ```
 4. **Run the Python Files:**
    ```bash
@@ -32,7 +33,7 @@ The repository is organized as follows:
 
 ## Author
 
-* **Divyansh Goenka**
+* **Adarsh hiremath**
 
 ## Course
 
@@ -40,5 +41,5 @@ The repository is organized as follows:
 
 ## Note
 
-This repository is intended for educational purposes and to demonstrate the learning progress of Divyansh Goenka in the
+This repository is intended for educational purposes and to demonstrate the learning progress of Adarsh Hiremath in the
 Tutedude Python course.
