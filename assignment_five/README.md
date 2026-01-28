@@ -1,4 +1,4 @@
-# DivyanshGoenka_Tutedude_Python_Assignments_5
+# Adarshhiremath_Tutedude_Python_Assignments_5
 
 This repository contains the Python Assignment no. 5 completed by Divyansh Goenka for the Tutedude Python course.
 
@@ -23,7 +23,7 @@ The repository is organized as follows:
    ```
 2. **Navigate to the Directory:**
    ```bash
-   cd DivyanshGoenka_Tutedude_Python_Assignment_5/assignment_five
+   cd Adarshhiremath_Tutedude_Python_Assignment_5/assignment_five
    ```
 4. **Run the Python Files:**
    ```bash
@@ -34,7 +34,7 @@ The repository is organized as follows:
 
 ## Author
 
-* **Divyansh Goenka**
+* **Adarshhiremath**
 
 ## Course
 
@@ -42,5 +42,5 @@ The repository is organized as follows:
 
 ## Note
 
-This repository is intended for educational purposes and to demonstrate the learning progress of Divyansh Goenka in the
+This repository is intended for educational purposes and to demonstrate the learning progress of Adarsh hiremath in the
 Tutedude Python course.
