@@ -1,4 +1,4 @@
-# DivyanshGoenka_Tutedude_Python_Assignments_2
+# Adarshhiremath_Tutedude_Python_Assignments_2
 
 This repository contains the Python Assignment no. 2 completed by Divyansh Goenka for the Tutedude Python course.
 
@@ -23,7 +23,7 @@ The repository is organized as follows:
    ```
 2. **Navigate to the Directory:**
    ```bash
-   cd DivyanshGoenka_Tutedude_Python_Assignment_2/assignment_two
+   cd Adarshhiremath_Tutedude_Python_Assignment_2/assignment_two
    ```
 4. **Run the Python Files:**
    ```bash
